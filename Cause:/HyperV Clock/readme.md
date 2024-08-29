@@ -6,7 +6,7 @@ Throws Error:
 </clock>
 ```
 
-Works:
+diff:
 ```
 <clock offset='localtime'>
   #...
